@@ -1,0 +1,14 @@
+{
+  "name": "node-di",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "glob": "registry:dt/glob#5.0.10+20160317120654",
+    "minimatch": "registry:dt/minimatch#2.0.8+20160317120654",
+    "node": "registry:dt/node#4.0.0+20160505172921"
+  },
+  "ambientDevDependencies": {
+    "bluebird": "registry:dt/bluebird#2.0.0+20160319051630",
+    "jasmine": "registry:dt/jasmine#2.2.0+20160505161446"
+  }
+}

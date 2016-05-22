@@ -1,0 +1,10 @@
+{
+    "image": {
+        "construct": [
+            "fileStorage"
+        ]
+    },
+    "fileStorage": {
+        "path": "storage/file_storage"
+    }
+}
